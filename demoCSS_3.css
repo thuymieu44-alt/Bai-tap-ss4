@@ -1,0 +1,12 @@
+button {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    width: 500px;
+}
+
+input,
+textarea {
+    width: 500px;
+}
+
